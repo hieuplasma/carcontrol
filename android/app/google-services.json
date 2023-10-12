@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317540152315",
+    "firebase_url": "https://control-car-hardware-default-rtdb.firebaseio.com",
+    "project_id": "control-car-hardware",
+    "storage_bucket": "control-car-hardware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317540152315:android:eecf7931084e7782af915e",
+        "android_client_info": {
+          "package_name": "com.example.control_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317540152315-6hgtqkere0uhnnk6pnfuu7ac8abbvinr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEEwuwsyynuRw7-Y-GwP6ApRs3j3UU5Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317540152315-6hgtqkere0uhnnk6pnfuu7ac8abbvinr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
